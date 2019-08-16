@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # Title: Zimbra Autodiscover Servlet XXE and ProxyServlet SSRF <= 8.7.0 and 8.7.11
-# Author: Raphael Karger
 # Shodan Dork: 8.6.0_GA_1153
 # Vendor Homepage: https://www.zimbra.com/
 # Version: <= 8.7.0 and 8.7.11
